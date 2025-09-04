@@ -13,6 +13,10 @@ The goal is to help the business maximize profitability and reduce losses.
 
 ---
 
+## 📸 Dashboard Preview
+![Dashboard](dashboard.png)
+
+
 ## 📊 Dashboard Insights
 - **Best Region**: West (highest profit contribution)  
 - **Weak Region**: Central (low/negative profit margins)  
