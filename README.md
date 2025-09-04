@@ -9,13 +9,16 @@ The goal is to help the business maximize profitability and reduce losses.
 
 ## 📂 Files in Repository
 - **Sales Dashboard.xlsx** → Interactive Excel dashboard (Region, Category, Segment, Products, Regression).  
-- **Project sales excel.txt** → Project problem statement / test case.  
-
+- **Project sales excel.txt** → Project problem statement / test case.
+  
 ---
 
 ## 📸 Dashboard Preview[
-Dashboard 1.png](https://github.com/Supraja-Vallabha/Sales-Dashboard-Analysis/blob/main/Dashboard%201.png)
+Dashboard 1.png (https://github.com/Supraja-Vallabha/Sales-Dashboard-Analysis/blob/main/Dashboard%201.png)
+Dashboard 2.png
+Dashboard 3.png
 
+---
 
 ## 📊 Dashboard Insights
 - **Best Region**: West (highest profit contribution)  
