@@ -14,7 +14,7 @@ The goal is to help the business maximize profitability and reduce losses.
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard](dashboard.png)
+Dashboard 1.png
 
 
 ## 📊 Dashboard Insights
