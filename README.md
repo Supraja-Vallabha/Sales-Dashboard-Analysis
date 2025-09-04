@@ -16,7 +16,7 @@ The goal is to help the business maximize profitability and reduce losses.
 ## 📸 Dashboard Preview
 Dashboard 1.png (https://github.com/Supraja-Vallabha/Sales-Dashboard-Analysis/blob/main/Dashboard%201.png)
 Dashboard 2.png (https://github.com/Supraja-Vallabha/Sales-Dashboard-Analysis/blob/main/Dashboard%202.png)
-Dashboard 3.png
+Dashboard 3.png (https://github.com/Supraja-Vallabha/Sales-Dashboard-Analysis/blob/main/Dashboard%203.png)
 
 ---
 
